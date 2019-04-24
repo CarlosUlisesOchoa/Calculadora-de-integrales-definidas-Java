@@ -1,6 +1,9 @@
-# Calculador de integrales definidas elaborado con Java en Netbeans
+# Defined integrals calculator made with Java (Netbeans)
 
-Este programa nos auxilia para el cálculo de integrales definidas, se pueden seleccionar dos métodos diferentes (Simpson &amp; Trapecio)
+This little program will help us solving defined integrals, it has two methods to solve them. (Simpson &amp; Trapeze)
+
+PD: This program is written in spanish, english translation will be available soon. You can translate it easily because it has very little text
+
 
 <br/>
 <p align="center">
@@ -8,12 +11,12 @@ Este programa nos auxilia para el cálculo de integrales definidas, se pueden se
 </p> <br/>
 
 
-# Acerca del desarrollador
+# About developer
 
-Visita mi página web [Carlos Ulises](http://www.carlosulises.ml)
+Visit my website [Carlos Ulises](http://www.carlosulises.ml)
 
 <p align="center">
 <a href="http://www.carlosulises.ml" target="_BLANK">
-<img width="700" height="382" src="https://github.com/CarlosUlisesOchoa/Sistema-de-inventario-videojuegos-MySQL/blob/master/project%20images/2019-04-24_09h08_57.png?raw=true" />
+<img width="700" height="382" src="https://github.com/CarlosUlisesOchoa/Calculador-de-integrales-definidas-java/blob/master/project%20images/dev.png?raw=true" />
 </a>
 </p>
