@@ -17,6 +17,6 @@ Visit my website [Carlos Ulises](http://www.carlosulises.ml)
 
 <p align="center">
 <a href="http://www.carlosulises.ml" target="_BLANK">
-<img width="700" height="382" src="https://github.com/CarlosUlisesOchoa/Calculador-de-integrales-definidas-java/blob/master/project%20images/dev.png?raw=true" />
+<img width="85%" height="85%" src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/master/project%20images/dev.jpg?raw=true" />
 </a>
 </p>
