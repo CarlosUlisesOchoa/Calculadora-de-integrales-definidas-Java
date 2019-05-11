@@ -52,7 +52,7 @@ Este programa te ayudará a calcular integrales definidas, cuenta con dos métod
 ## Imagenes del programa
 
 <p align="center">
-<img width="70%" height="70%" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Calculador-de-integrales-definidas-java/master/project%20images/interfaz.png" />
+<img width="40%" height="40%" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Calculador-de-integrales-definidas-java/master/project%20images/interfaz.png" />
 </p>
 
 <br/>
